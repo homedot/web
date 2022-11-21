@@ -1612,3 +1612,10 @@ body::-webkit-scrollbar-thumb {
 
 /* 
 Resources1× 0.5× 0.25×Rerun */
+
+@font-face {
+  font-family: 'Bubbleboy Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Bubbleboy Regular'), url('../fonts/BUBBLEBO.woff') format('woff');
+  }

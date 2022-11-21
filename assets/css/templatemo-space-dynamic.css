@@ -787,7 +787,7 @@ preloader
     position: relative;
     width: 142px;
     height: 40px;
-    background: #fff;
+    background: rgb(0, 0, 0);
 }
 
 .preloader-inner .dot {
@@ -796,7 +796,7 @@ preloader
     height: 16px;
     top: 12px;
     left: 15px;
-    background: #fe3f40;
+    background: #00bfff;
     border-radius: 50%;
     -webkit-transform: translateX(0);
     transform: translateX(0);
@@ -811,6 +811,7 @@ preloader
     margin-left: 31px;
     -webkit-animation: dots 2.8s infinite;
     animation: dots 2.8s infinite;
+    /* image-rendering: url(../images/baner-dec-right.png); */
 }
 
 .preloader-inner .dots span {
@@ -819,7 +820,7 @@ preloader
     width: 16px;
     height: 16px;
     margin-left: 16px;
-    background: #fe3f40;
+    background: #00bfff;
     border-radius: 50%;
 }
 

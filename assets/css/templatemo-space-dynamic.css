@@ -783,12 +783,12 @@ preloader
     }
 }
 
-.preloader-inner {
+/* .preloader-inner {
     position: relative;
     width: 142px;
     height: 40px;
     background: rgb(0, 0, 0);
-}
+} */
 
 .preloader-inner .dot {
     position: absolute;
